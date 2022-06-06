@@ -1,0 +1,39 @@
+
+.titulo{
+    font-size: 100px;
+    padding: 50px ;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.footer div{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.contactForm{
+    padding: 20px;
+    margin-top: 20px;
+    width: 70%;
+}
+.subscribe{
+    padding: 50px;
+    margin-top: 25px;
+    text-align: center;
+}
+.contactForm div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
