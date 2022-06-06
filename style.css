@@ -9,6 +9,10 @@
     justify-content: center;
     font-family: 'Kanit', sans-serif;
 }
+.gif{
+    width: 30px;
+    height: 30px;
+}
 /*general*/
 body{
     font-family: 'Kanit', sans-serif;
@@ -45,6 +49,5 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-
 }
 /*animations*/
