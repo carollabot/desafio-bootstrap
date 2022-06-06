@@ -1,4 +1,4 @@
-
+/*header*/
 .titulo{
     font-size: 100px;
     padding: 50px ;
@@ -9,18 +9,28 @@
     justify-content: center;
     font-family: 'Kanit', sans-serif;
 }
-
+/*general*/
 body{
     font-family: 'Kanit', sans-serif;
 }
-
+/*footer*/
+.footer{
+    padding: 15px 15px;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    display: flex;
+}
 .footer div{
     display: inline-flex;
     align-items: center;
-    justify-content: space-around;
-    text-align: center;
 }
-
+.logos{
+    width: 25px;
+    height: 25px;
+    align-items: center;
+}
+/*contact*/
 .contactForm{
     padding: 20px;
     margin-top: 20px;
@@ -37,3 +47,4 @@ body{
     text-align: center;
 
 }
+/*animations*/
